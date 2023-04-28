@@ -1,2 +1,2 @@
-# jelly3D
-3D version of the Jelly game
+# Jelly3D
+3D version of the [Jelly](https://github.com/shcherban/jelly) game
